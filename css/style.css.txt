@@ -4,3 +4,10 @@ padding:2px;
 background-color:red;
 
 }
+
+.navbar {
+
+width:10vw;
+height:10%;
+
+}
